@@ -10,6 +10,7 @@ We'll build everything step by step, using C wherever possible and ARM assembly 
 
 No commercial RTOS, no hidden implementation, and no physical development board required. We'll use QEMU to run and experiment with our kernel.
 
+For more information of it was implement you need to visit here : [My Website](https://ridhaos.com/).
 ---
 
 ## 🎯 Project goals
